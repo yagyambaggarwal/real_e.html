@@ -15,7 +15,7 @@ nav {
     flex-direction: row;
     justify-content: space-evenly;
 }
-
+/* zxv */
 nav>a {
     text-decoration: none;
     animation-name: yagyam;
